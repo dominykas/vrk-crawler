@@ -68,7 +68,7 @@ var apylinkesRez = function(href)
 		r+="\r\n";
 		r+=(k1+" "+$($(kand[0]).closest('tr').find('td')[4]).html()+" ("+p1+")");
 		r+="\r\n";
-		r+=(k2+" "+$($(kand[0]).closest('tr').find('td')[4]).html()+" ("+p2+")");
+		r+=(k2+" "+$($(kand[1]).closest('tr').find('td')[4]).html()+" ("+p2+")");
 		r+="\r\n";
 		def.resolve(r);
 		console.log(ap);

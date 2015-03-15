@@ -1,0 +1,23 @@
+{
+  "name": "vrk-crawler",
+  "version": "1.0.0",
+  "description": "Greiti hackai vrk.lt nusiurbimui ir paanalizavimui",
+  "main": "go.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dominykas/vrk-crawler.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dominykas/vrk-crawler/issues"
+  },
+  "homepage": "https://github.com/dominykas/vrk-crawler",
+  "dependencies": {
+    "jsdom": "^4.0.2",
+    "q": "^1.2.0"
+  }
+}

@@ -18,7 +18,7 @@ var antri = {'??':0};
 
 partijos.forEach(function(p){
 
-	sarasai[p]=fs.readFileSync('./partijos/'+p+'.html').toString().toLowerCase();
+	sarasai[p]=fs.readFileSync('./partijos-2015/'+p+'.html').toString().toLowerCase();
 	pirmi[p] = antri[p] = 0;
 
 });

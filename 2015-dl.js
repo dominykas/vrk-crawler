@@ -43,12 +43,12 @@ function round(url, withParth) {
 var done = [];
 
 // Lietuva
-done.push(round('http://www.2013.vrk.lt/2015_savivaldybiu_tarybu_rinkimai/output_lt/rezultatai_daugiamand_apygardose/rezultatai_daugiamand_apygardose1turas.html')
+done.push(round('http://www.2013.vrk.lt/2015_savivaldybiu_tarybu_rinkimai/output_lt/rezultatai_daugiamand_apygardose/rezultatai_daugiamand_apygardose1turas.html', true)
 	.then(function (t) {
 		fs.writeFileSync("res-2015/t1.json", JSON.stringify(t));
 	}));
 
-done.push(round('http://www.2013.vrk.lt/2015_savivaldybiu_tarybu_rinkimai/output_lt/rezultatai_vienmand_apygardose2/rezultatai_vienmand_apygardose2turas.html')
+done.push(round('http://www.2013.vrk.lt/2015_savivaldybiu_tarybu_rinkimai/output_lt/rezultatai_vienmand_apygardose2/rezultatai_vienmand_apygardose2turas.html', true)
 	.then(function (t) {
 		fs.writeFileSync("res-2015/t2.json", JSON.stringify(t));
 	}));

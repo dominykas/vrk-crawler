@@ -1,0 +1,782 @@
+[
+  {
+    "munip": " 1.  Angirių",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "24"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "55"
+      }
+    ]
+  },
+  {
+    "munip": " 2.  Aristavos",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "138"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "87"
+      }
+    ]
+  },
+  {
+    "munip": " 3.  Ažytėnų",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "87"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "70"
+      }
+    ]
+  },
+  {
+    "munip": " 4.  Babėnų",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "676"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "337"
+      }
+    ]
+  },
+  {
+    "munip": " 5.  Beinaičių",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "73"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "137"
+      }
+    ]
+  },
+  {
+    "munip": " 6.  Vikaičių",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "65"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "104"
+      }
+    ]
+  },
+  {
+    "munip": " 7.  Dotnuvos",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "289"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "165"
+      }
+    ]
+  },
+  {
+    "munip": " 8.  Gudžiūnų",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "99"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "96"
+      }
+    ]
+  },
+  {
+    "munip": " 9.  Josvainių",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "377"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "313"
+      }
+    ]
+  },
+  {
+    "munip": " 10.  Kalnaberžės",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "148"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "88"
+      }
+    ]
+  },
+  {
+    "munip": " 11.  Kaplių",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "43"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "79"
+      }
+    ]
+  },
+  {
+    "munip": " 12.  Keleriškių",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "125"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "99"
+      }
+    ]
+  },
+  {
+    "munip": " 13.  Krakių",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "141"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "255"
+      }
+    ]
+  },
+  {
+    "munip": " 14.  Kunionių",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "114"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "93"
+      }
+    ]
+  },
+  {
+    "munip": " 15.  Labūnavos",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "136"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "245"
+      }
+    ]
+  },
+  {
+    "munip": " 16.  Lančiūnavos",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "95"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "120"
+      }
+    ]
+  },
+  {
+    "munip": " 17.  Langakių",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "91"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "92"
+      }
+    ]
+  },
+  {
+    "munip": " 18.  Liaudies",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "720"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "559"
+      }
+    ]
+  },
+  {
+    "munip": " 19.  Mantviliškio",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "38"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "81"
+      }
+    ]
+  },
+  {
+    "munip": " 21.  Meironiškio",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "45"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "102"
+      }
+    ]
+  },
+  {
+    "munip": " 22.  Naujoji",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "458"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "337"
+      }
+    ]
+  },
+  {
+    "munip": " 23.  Miegėnų",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "62"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "123"
+      }
+    ]
+  },
+  {
+    "munip": " 24.  Nociūnų",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "105"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "131"
+      }
+    ]
+  },
+  {
+    "munip": " 25.  Okainių",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "43"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "72"
+      }
+    ]
+  },
+  {
+    "munip": " 26.  Paaluonio",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "52"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "50"
+      }
+    ]
+  },
+  {
+    "munip": " 27.  Pagirių",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "88"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "134"
+      }
+    ]
+  },
+  {
+    "munip": " 28.  Pajieslio",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "51"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "126"
+      }
+    ]
+  },
+  {
+    "munip": " 29.  Parko",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "207"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "162"
+      }
+    ]
+  },
+  {
+    "munip": " 30.  Pašušvio",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "44"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "106"
+      }
+    ]
+  },
+  {
+    "munip": " 31.  Pelėdnagių",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "341"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "301"
+      }
+    ]
+  },
+  {
+    "munip": " 32.  Pelutavos",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "96"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "52"
+      }
+    ]
+  },
+  {
+    "munip": " 33.  Pergalės",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "520"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "424"
+      }
+    ]
+  },
+  {
+    "munip": " 34.  Pernaravos",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "72"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "89"
+      }
+    ]
+  },
+  {
+    "munip": " 35.  Petkūnų",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "17"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "68"
+      }
+    ]
+  },
+  {
+    "munip": " 36.  Radvilų",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "584"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "365"
+      }
+    ]
+  },
+  {
+    "munip": " 38.  Senamiesčio",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "336"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "155"
+      }
+    ]
+  },
+  {
+    "munip": " 39.  Sirutiškio",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "83"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "92"
+      }
+    ]
+  },
+  {
+    "munip": " 40.  Skaistgirių",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "67"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "85"
+      }
+    ]
+  },
+  {
+    "munip": " 41.  Smilgos",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "554"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "248"
+      }
+    ]
+  },
+  {
+    "munip": " 42.  Statybininkų",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "147"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "150"
+      }
+    ]
+  },
+  {
+    "munip": " 43.  Surviliškio",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "88"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "126"
+      }
+    ]
+  },
+  {
+    "munip": " 44.  Šėtos",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "202"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "197"
+      }
+    ]
+  },
+  {
+    "munip": " 45.  Šlapaberžės",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "132"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "113"
+      }
+    ]
+  },
+  {
+    "munip": " 46.  Taikos",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "606"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "441"
+      }
+    ]
+  },
+  {
+    "munip": " 47.  Tiskūnų",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "140"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "141"
+      }
+    ]
+  },
+  {
+    "munip": " 48.  Truskavos",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "63"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "136"
+      }
+    ]
+  },
+  {
+    "munip": " 49.  Vainikų",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "68"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "72"
+      }
+    ]
+  },
+  {
+    "munip": " 50.  Vilainių",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "334"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "197"
+      }
+    ]
+  },
+  {
+    "munip": " 51.  Žemaitės",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "431"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "321"
+      }
+    ]
+  },
+  {
+    "munip": " 52.  Akademijos",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "202"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "91"
+      }
+    ]
+  },
+  {
+    "munip": " 53.  Beržų",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "94"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "75"
+      }
+    ]
+  },
+  {
+    "munip": " 54.  Dotnuvėlės",
+    "res": [
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "-",
+        "votes": "203"
+      },
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "-",
+        "votes": "135"
+      }
+    ]
+  }
+]

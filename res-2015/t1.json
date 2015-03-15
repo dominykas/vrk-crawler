@@ -1,0 +1,962 @@
+[
+  {
+    "munip": "1. Akmenės rajono",
+    "res": [
+      {
+        "cand": "Vitalijus MITROFANOVAS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "4103"
+      },
+      {
+        "cand": "Apolinaras NICIUS",
+        "party": "Lietuvos Respublikos liberalų sąjūdis",
+        "votes": "3053"
+      }
+    ]
+  },
+  1,
+  {
+    "munip": "2. Alytaus miesto",
+    "res": [
+      {
+        "cand": "Vytautas GRIGARAVIČIUS",
+        "party": "Visuomeninis rinkimų komitetas „Alytaus piliečiai“",
+        "votes": "16594"
+      },
+      {
+        "cand": "Jurgis KRASNICKAS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "2282"
+      }
+    ]
+  },
+  3,
+  {
+    "munip": "3. Alytaus rajono",
+    "res": [
+      {
+        "cand": "Algirdas VRUBLIAUSKAS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "5837"
+      },
+      {
+        "cand": "Aurimas TRUNCĖ",
+        "party": "Darbo partija",
+        "votes": "4465"
+      }
+    ]
+  },
+  5,
+  {
+    "munip": "4. Anykščių rajono",
+    "res": [
+      {
+        "cand": "Kęstutis TUBIS",
+        "party": "Lietuvos Respublikos liberalų sąjūdis",
+        "votes": "2965"
+      },
+      {
+        "cand": "Sigutis OBELEVIČIUS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "2858"
+      }
+    ]
+  },
+  7,
+  {
+    "munip": "5. Birštono",
+    "res": [
+      {
+        "cand": "Nijolė DIRGINČIENĖ",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "1932"
+      },
+      {
+        "cand": "Darius ŠEŠKEVIČIUS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "389"
+      }
+    ]
+  },
+  9,
+  {
+    "munip": "6. Biržų rajono",
+    "res": [
+      {
+        "cand": "Valdemaras VALKIŪNAS",
+        "party": "Respublikonų partija",
+        "votes": "4313"
+      },
+      {
+        "cand": "Irutė VARZIENĖ",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "3139"
+      }
+    ]
+  },
+  11,
+  {
+    "munip": "7. Druskininkų",
+    "res": [
+      {
+        "cand": "Ričardas MALINAUSKAS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "7911"
+      },
+      {
+        "cand": "Valdas TRINKŪNAS",
+        "party": "Lietuvos Respublikos liberalų sąjūdis",
+        "votes": "1820"
+      }
+    ]
+  },
+  13,
+  {
+    "munip": "8. Elektrėnų",
+    "res": [
+      {
+        "cand": "Kęstutis VAITUKAITIS",
+        "party": "Lietuvos Respublikos liberalų sąjūdis",
+        "votes": "4047"
+      },
+      {
+        "cand": "Arvydas VYŠNIAUSKAS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "2033"
+      }
+    ]
+  },
+  15,
+  {
+    "munip": "9. Ignalinos rajono",
+    "res": [
+      {
+        "cand": "Henrikas ŠIAUDINIS",
+        "party": "Lietuvos valstiečių ir žaliųjų sąjunga",
+        "votes": "4928"
+      },
+      {
+        "cand": "Vilius CIBULSKAS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "1383"
+      }
+    ]
+  },
+  17,
+  {
+    "munip": "10. Jonavos rajono",
+    "res": [
+      {
+        "cand": "Mindaugas SINKEVIČIUS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "12336"
+      },
+      {
+        "cand": "Remigijus OSAUSKAS",
+        "party": "Lietuvos Respublikos liberalų sąjūdis",
+        "votes": "1458"
+      }
+    ]
+  },
+  19,
+  {
+    "munip": "11. Joniškio rajono",
+    "res": [
+      {
+        "cand": "Liudas JONAITIS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "3540"
+      },
+      {
+        "cand": "Gediminas ČEPULIS",
+        "party": "Lietuvos Respublikos liberalų sąjūdis",
+        "votes": "3328"
+      }
+    ]
+  },
+  21,
+  {
+    "munip": "12. Jurbarko rajono",
+    "res": [
+      {
+        "cand": "Ričardas JUŠKA",
+        "party": "Lietuvos Respublikos liberalų sąjūdis",
+        "votes": "3301"
+      },
+      {
+        "cand": "Skirmantas MOCKEVIČIUS",
+        "party": "Išsikėlė pats",
+        "votes": "3067"
+      }
+    ]
+  },
+  23,
+  {
+    "munip": "13. Kaišiadorių rajono",
+    "res": [
+      {
+        "cand": "Romualdas URMILEVIČIUS",
+        "party": "Lietuvos Respublikos liberalų sąjūdis",
+        "votes": "4375"
+      },
+      {
+        "cand": "Vytenis TOMKUS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "2491"
+      }
+    ]
+  },
+  25,
+  {
+    "munip": "14. Kalvarijos",
+    "res": [
+      {
+        "cand": "Valdas ALEKNAVIČIUS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "1477"
+      },
+      {
+        "cand": "Vincas PLIKAITIS",
+        "party": "Partija Tvarka ir teisingumas",
+        "votes": "1187"
+      }
+    ]
+  },
+  27,
+  {
+    "munip": "15. Kauno miesto",
+    "res": [
+      {
+        "cand": "Visvaldas MATIJOŠAITIS",
+        "party": "Visuomeninis rinkimų komitetas „Vieningas Kaunas“",
+        "votes": "44489"
+      },
+      {
+        "cand": "Andrius KUPČINSKAS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "29679"
+      }
+    ]
+  },
+  29,
+  {
+    "munip": "16. Kauno rajono",
+    "res": [
+      {
+        "cand": "Valerijus MAKŪNAS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "17338"
+      },
+      {
+        "cand": "Justinas URBANAVIČIUS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "5430"
+      }
+    ]
+  },
+  31,
+  {
+    "munip": "17. Kazlų Rūdos",
+    "res": [
+      {
+        "cand": "Giedrius BIELSKUS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "1404"
+      },
+      {
+        "cand": "Vytautas KANEVIČIUS",
+        "party": "Lietuvos laisvės sąjunga (liberalai)",
+        "votes": "1310"
+      }
+    ]
+  },
+  33,
+  {
+    "munip": "18. Kelmės rajono",
+    "res": [
+      {
+        "cand": "Vaclovas ANDRULIS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "4606"
+      },
+      {
+        "cand": "Juozas RIMKUS",
+        "party": "Lietuvos valstiečių ir žaliųjų sąjunga",
+        "votes": "3509"
+      }
+    ]
+  },
+  35,
+  {
+    "munip": "19. Kėdainių rajono",
+    "res": [
+      {
+        "cand": "Nijolė NAUJOKIENĖ",
+        "party": "Darbo partija",
+        "votes": "10274"
+      },
+      {
+        "cand": "Saulius GRINKEVIČIUS",
+        "party": "Lietuvos laisvės sąjunga (liberalai)",
+        "votes": "5783"
+      }
+    ]
+  },
+  37,
+  {
+    "munip": "20. Klaipėdos miesto",
+    "res": [
+      {
+        "cand": "Vytautas GRUBLIAUSKAS",
+        "party": "Lietuvos Respublikos liberalų sąjūdis",
+        "votes": "20943"
+      },
+      {
+        "cand": "Agnė BILOTAITĖ",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "5860"
+      }
+    ]
+  },
+  39,
+  {
+    "munip": "21. Klaipėdos rajono",
+    "res": [
+      {
+        "cand": "Vaclovas DAČKAUSKAS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "3841"
+      },
+      {
+        "cand": "Audronė BALNIONIENĖ",
+        "party": "Lietuvos Respublikos liberalų sąjūdis",
+        "votes": "2980"
+      }
+    ]
+  },
+  41,
+  {
+    "munip": "22. Kretingos rajono",
+    "res": [
+      {
+        "cand": "Juozas MAŽEIKA",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "4782"
+      },
+      {
+        "cand": "Virginijus DOMARKAS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "3393"
+      }
+    ]
+  },
+  43,
+  {
+    "munip": "23. Kupiškio rajono",
+    "res": [
+      {
+        "cand": "Dainius BARDAUSKAS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "3562"
+      },
+      {
+        "cand": "Jonas JARUTIS",
+        "party": "Lietuvos valstiečių ir žaliųjų sąjunga",
+        "votes": "1651"
+      }
+    ]
+  },
+  45,
+  {
+    "munip": "24. Lazdijų rajono",
+    "res": [
+      {
+        "cand": "Artūras MARGELIS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "6063"
+      },
+      {
+        "cand": "Saulius PETRAUSKAS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "1725"
+      }
+    ]
+  },
+  47,
+  {
+    "munip": "25. Marijampolės",
+    "res": [
+      {
+        "cand": "Vidmantas BRAZYS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "11915"
+      },
+      {
+        "cand": "Valdas PILECKAS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "2910"
+      }
+    ]
+  },
+  49,
+  {
+    "munip": "26. Mažeikių rajono",
+    "res": [
+      {
+        "cand": "Antanas TENYS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "9265"
+      },
+      {
+        "cand": "Lina RIMKIENĖ",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "2615"
+      }
+    ]
+  },
+  51,
+  {
+    "munip": "27. Molėtų rajono",
+    "res": [
+      {
+        "cand": "Stasys ŽVINYS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "5138"
+      },
+      {
+        "cand": "Jolita ČIMBARIENĖ",
+        "party": "Darbo partija",
+        "votes": "1192"
+      }
+    ]
+  },
+  53,
+  {
+    "munip": "28. Neringos",
+    "res": [
+      {
+        "cand": "Darius JASAITIS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "1366"
+      },
+      {
+        "cand": "Arūnas BURKŠAS",
+        "party": "Lietuvos laisvės sąjunga (liberalai)",
+        "votes": "432"
+      }
+    ]
+  },
+  55,
+  {
+    "munip": "29. Pagėgių",
+    "res": [
+      {
+        "cand": "Virginijus KOMSKIS",
+        "party": "Partija Tvarka ir teisingumas",
+        "votes": "2655"
+      },
+      {
+        "cand": "Edgaras KUTURYS",
+        "party": "Darbo partija",
+        "votes": "1043"
+      }
+    ]
+  },
+  57,
+  {
+    "munip": "30. Pakruojo rajono",
+    "res": [
+      {
+        "cand": "Asta JASIŪNIENĖ",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "2559"
+      },
+      {
+        "cand": "Saulius GEGIECKAS",
+        "party": "Lietuvos laisvės sąjunga (liberalai)",
+        "votes": "2047"
+      }
+    ]
+  },
+  59,
+  {
+    "munip": "31. Palangos miesto",
+    "res": [
+      {
+        "cand": "Šarūnas VAITKUS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "5686"
+      },
+      {
+        "cand": "Arūnas ŠTARAS",
+        "party": "Lietuvos Respublikos liberalų sąjūdis",
+        "votes": "523"
+      }
+    ]
+  },
+  61,
+  {
+    "munip": "32. Panevėžio miesto",
+    "res": [
+      {
+        "cand": "Rytis Mykolas RAČKAUSKAS",
+        "party": "Visuomeninis rinkimų komitetas „Povilas Urbšys už sąrašą KARTU“",
+        "votes": "7059"
+      },
+      {
+        "cand": "Maurikijus GRĖBLIŪNAS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "4997"
+      }
+    ]
+  },
+  63,
+  {
+    "munip": "33. Panevėžio rajono",
+    "res": [
+      {
+        "cand": "Povilas ŽAGUNIS",
+        "party": "Lietuvos valstiečių ir žaliųjų sąjunga",
+        "votes": "7255"
+      },
+      {
+        "cand": "Antanas POCIUS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "1925"
+      }
+    ]
+  },
+  65,
+  {
+    "munip": "34. Pasvalio rajono",
+    "res": [
+      {
+        "cand": "Gintautas GEGUŽINSKAS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "6177"
+      },
+      {
+        "cand": "Alfonsas PULOKAS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "1615"
+      }
+    ]
+  },
+  67,
+  {
+    "munip": "35. Plungės rajono",
+    "res": [
+      {
+        "cand": "Audrius KLIŠONIS",
+        "party": "Lietuvos Respublikos liberalų sąjūdis",
+        "votes": "5403"
+      },
+      {
+        "cand": "Asta BEIERLE EIGIRDIENĖ",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "2766"
+      }
+    ]
+  },
+  69,
+  {
+    "munip": "36. Prienų rajono",
+    "res": [
+      {
+        "cand": "Alvydas VAICEKAUSKAS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "2341"
+      },
+      {
+        "cand": "Loreta JAKINEVIČIENĖ",
+        "party": "Partija Tvarka ir teisingumas",
+        "votes": "1966"
+      }
+    ]
+  },
+  71,
+  {
+    "munip": "37. Radviliškio rajono",
+    "res": [
+      {
+        "cand": "Antanas ČEPONONIS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "6539"
+      },
+      {
+        "cand": "Kazimieras AUGULIS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "3412"
+      }
+    ]
+  },
+  73,
+  {
+    "munip": "38. Raseinių rajono",
+    "res": [
+      {
+        "cand": "Algirdas GRICIUS",
+        "party": "Darbo partija",
+        "votes": "5080"
+      },
+      {
+        "cand": "Liudas KAVALIAUSKAS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "3967"
+      }
+    ]
+  },
+  75,
+  {
+    "munip": "39. Rietavo",
+    "res": [
+      {
+        "cand": "Antanas ČERNECKIS",
+        "party": "Lietuvos Respublikos liberalų sąjūdis",
+        "votes": "2764"
+      },
+      {
+        "cand": "Povilas BATAVIČIUS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "524"
+      }
+    ]
+  },
+  77,
+  {
+    "munip": "40. Rokiškio rajono",
+    "res": [
+      {
+        "cand": "Antanas VAGONIS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "3233"
+      },
+      {
+        "cand": "Almantas BLAŽYS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "2669"
+      }
+    ]
+  },
+  79,
+  {
+    "munip": "41. Skuodo rajono",
+    "res": [
+      {
+        "cand": "Audronė PITRĖNIENĖ",
+        "party": "Darbo partija, Visuomeninis rinkimų komitetas „Permainų laikas“",
+        "votes": "2523"
+      },
+      {
+        "cand": "Petras PUŠINSKAS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "1392"
+      }
+    ]
+  },
+  81,
+  {
+    "munip": "42. Šakių rajono",
+    "res": [
+      {
+        "cand": "Juozas BERTAŠIUS",
+        "party": "Lietuvos valstiečių ir žaliųjų sąjunga",
+        "votes": "5556"
+      },
+      {
+        "cand": "Bernardinas Petras VAINIUS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "2951"
+      }
+    ]
+  },
+  83,
+  {
+    "munip": "43. Šalčininkų rajono",
+    "res": [
+      {
+        "cand": "Zdzislav PALEVIČ",
+        "party": "Lietuvos lenkų rinkimų akcija, Politinė partija Rusų aljansas",
+        "votes": "13412"
+      },
+      {
+        "cand": "Julija MACKEVIČ",
+        "party": "Lietuvos Respublikos liberalų sąjūdis",
+        "votes": "1825"
+      }
+    ]
+  },
+  85,
+  {
+    "munip": "44. Šiaulių miesto",
+    "res": [
+      {
+        "cand": "Artūras VISOCKAS",
+        "party": "Visuomeninis rinkimų komitetas „Artūro Visocko nepartinis sąrašas“",
+        "votes": "6032"
+      },
+      {
+        "cand": "Valerijus SIMULIK",
+        "party": "Visuomeninis rinkimų komitetas „Valerijaus Simulik judėjimas „Už Šiaulius“",
+        "votes": "5589"
+      }
+    ]
+  },
+  87,
+  {
+    "munip": "45. Šiaulių rajono",
+    "res": [
+      {
+        "cand": "Antanas BEZARAS",
+        "party": "Lietuvos valstiečių ir žaliųjų sąjunga",
+        "votes": "5034"
+      },
+      {
+        "cand": "Algimantas GAUBAS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "2929"
+      }
+    ]
+  },
+  89,
+  {
+    "munip": "46. Šilalės rajono",
+    "res": [
+      {
+        "cand": "Jonas GUDAUSKAS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "4080"
+      },
+      {
+        "cand": "Vytautas JUCIUS",
+        "party": "Partija Tvarka ir teisingumas",
+        "votes": "2858"
+      }
+    ]
+  },
+  91,
+  {
+    "munip": "47. Šilutės rajono",
+    "res": [
+      {
+        "cand": "Vytautas LAURINAITIS",
+        "party": "Partija Tvarka ir teisingumas",
+        "votes": "4405"
+      },
+      {
+        "cand": "Arvydas JAKAS",
+        "party": "Lietuvos laisvės sąjunga (liberalai)",
+        "votes": "2866"
+      }
+    ]
+  },
+  93,
+  {
+    "munip": "48. Širvintų rajono",
+    "res": [
+      {
+        "cand": "Živilė PINSKUVIENĖ",
+        "party": "Darbo partija",
+        "votes": "3861"
+      },
+      {
+        "cand": "Andrius JOZONIS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "1152"
+      }
+    ]
+  },
+  95,
+  {
+    "munip": "49. Švenčionių rajono",
+    "res": [
+      {
+        "cand": "Vytautas VIGELIS",
+        "party": "Darbo partija",
+        "votes": "4138"
+      },
+      {
+        "cand": "Rimantas KLIPČIUS",
+        "party": "Lietuvos laisvės sąjunga (liberalai)",
+        "votes": "2557"
+      }
+    ]
+  },
+  97,
+  {
+    "munip": "50. Tauragės rajono",
+    "res": [
+      {
+        "cand": "Pranas PETROŠIUS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "7558"
+      },
+      {
+        "cand": "Sigitas MIČIULIS",
+        "party": "Lietuvos Respublikos liberalų sąjūdis",
+        "votes": "7336"
+      }
+    ]
+  },
+  99,
+  {
+    "munip": "51. Telšių rajono",
+    "res": [
+      {
+        "cand": "Vytautas KLEIVA",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "6116"
+      },
+      {
+        "cand": "Almantas LUKAVIČIUS",
+        "party": "Partija Tvarka ir teisingumas",
+        "votes": "2488"
+      }
+    ]
+  },
+  101,
+  {
+    "munip": "52. Trakų rajono",
+    "res": [
+      {
+        "cand": "Edita RUDELIENĖ",
+        "party": "Lietuvos Respublikos liberalų sąjūdis",
+        "votes": "4903"
+      },
+      {
+        "cand": "Vytautas ZALIECKAS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "4196"
+      }
+    ]
+  },
+  103,
+  {
+    "munip": "53. Ukmergės rajono",
+    "res": [
+      {
+        "cand": "Rolandas JANICKAS",
+        "party": "Darbo partija",
+        "votes": "3904"
+      },
+      {
+        "cand": "Juozas VARŽGALYS",
+        "party": "Lietuvos valstiečių ir žaliųjų sąjunga",
+        "votes": "3102"
+      }
+    ]
+  },
+  105,
+  {
+    "munip": "54. Utenos rajono",
+    "res": [
+      {
+        "cand": "Alvydas KATINAS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "11370"
+      },
+      {
+        "cand": "Edmundas PUPINIS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "4039"
+      }
+    ]
+  },
+  107,
+  {
+    "munip": "55. Varėnos rajono",
+    "res": [
+      {
+        "cand": "Algis KAŠĖTA",
+        "party": "Lietuvos Respublikos liberalų sąjūdis",
+        "votes": "6272"
+      },
+      {
+        "cand": "Vidas MIKALAUSKAS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "4343"
+      }
+    ]
+  },
+  109,
+  {
+    "munip": "56. Vilkaviškio rajono",
+    "res": [
+      {
+        "cand": "Algirdas NEIBERKA",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "7362"
+      },
+      {
+        "cand": "Gytis LUKOŠEVIČIUS",
+        "party": "Lietuvos Respublikos liberalų sąjūdis",
+        "votes": "1650"
+      }
+    ]
+  },
+  111,
+  {
+    "munip": "57. Vilniaus miesto",
+    "res": [
+      {
+        "cand": "Remigijus ŠIMAŠIUS",
+        "party": "Lietuvos Respublikos liberalų sąjūdis",
+        "votes": "75181"
+      },
+      {
+        "cand": "Artūras ZUOKAS",
+        "party": "Lietuvos laisvės sąjunga (liberalai)",
+        "votes": "39970"
+      }
+    ]
+  },
+  113,
+  {
+    "munip": "58. Vilniaus rajono",
+    "res": [
+      {
+        "cand": "Marija REKST",
+        "party": "Lietuvos lenkų rinkimų akcija, Politinė partija Rusų aljansas",
+        "votes": "23751"
+      },
+      {
+        "cand": "Gintaras KAROSAS",
+        "party": "Lietuvos Respublikos liberalų sąjūdis, Tėvynės sąjunga-Lietuvos krikščionys demokratai",
+        "votes": "6830"
+      }
+    ]
+  },
+  115,
+  {
+    "munip": "59. Visagino",
+    "res": [
+      {
+        "cand": "Dalia ŠTRAUPAITĖ",
+        "party": "Lietuvos laisvės sąjunga (liberalai)",
+        "votes": "3514"
+      },
+      {
+        "cand": "Vitalius BESAKIRSKAS",
+        "party": "Lietuvos rusų sąjunga",
+        "votes": "1577"
+      }
+    ]
+  },
+  117,
+  {
+    "munip": "60. Zarasų rajono",
+    "res": [
+      {
+        "cand": "Nikolajus GUSEVAS",
+        "party": "Lietuvos socialdemokratų partija",
+        "votes": "2023"
+      },
+      {
+        "cand": "Daiva KELEČIENĖ",
+        "party": "Visuomeninis rinkimų komitetas „Švari savivalda“",
+        "votes": "1665"
+      }
+    ]
+  },
+  119
+]

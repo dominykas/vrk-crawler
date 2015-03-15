@@ -14,7 +14,6 @@
       }
     ]
   },
-  1,
   {
     "munip": "3. Alytaus rajono",
     "res": [
@@ -30,23 +29,21 @@
       }
     ]
   },
-  3,
   {
     "munip": "4. Anykščių rajono",
     "res": [
       {
         "cand": "Kęstutis TUBIS",
         "party": "Lietuvos Respublikos liberalų sąjūdis",
-        "votes": "3279"
+        "votes": "4435"
       },
       {
         "cand": "Sigutis OBELEVIČIUS",
         "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
-        "votes": "3048"
+        "votes": "3987"
       }
     ]
   },
-  5,
   {
     "munip": "6. Biržų rajono",
     "res": [
@@ -62,7 +59,6 @@
       }
     ]
   },
-  7,
   {
     "munip": "8. Elektrėnų",
     "res": [
@@ -78,7 +74,6 @@
       }
     ]
   },
-  9,
   {
     "munip": "11. Joniškio rajono",
     "res": [
@@ -94,7 +89,6 @@
       }
     ]
   },
-  11,
   {
     "munip": "12. Jurbarko rajono",
     "res": [
@@ -110,55 +104,51 @@
       }
     ]
   },
-  13,
   {
     "munip": "13. Kaišiadorių rajono",
     "res": [
       {
         "cand": "Vytenis TOMKUS",
         "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
-        "votes": "4455"
+        "votes": "4962"
       },
       {
         "cand": "Romualdas URMILEVIČIUS",
         "party": "Lietuvos Respublikos liberalų sąjūdis",
-        "votes": "4169"
+        "votes": "4675"
       }
     ]
   },
-  15,
   {
     "munip": "14. Kalvarijos",
     "res": [
       {
-        "cand": "Valdas ALEKNAVIČIUS",
-        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
-        "votes": "1454"
-      },
-      {
         "cand": "Vincas PLIKAITIS",
         "party": "Partija Tvarka ir teisingumas",
-        "votes": "1434"
+        "votes": "1678"
+      },
+      {
+        "cand": "Valdas ALEKNAVIČIUS",
+        "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+        "votes": "1623"
       }
     ]
   },
-  17,
   {
     "munip": "15. Kauno miesto",
     "res": [
       {
         "cand": "Visvaldas MATIJOŠAITIS",
         "party": "Visuomeninis rinkimų komitetas „Vieningas Kaunas“",
-        "votes": "64351"
+        "votes": "66256"
       },
       {
         "cand": "Andrius KUPČINSKAS",
         "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
-        "votes": "37020"
+        "votes": "38123"
       }
     ]
   },
-  19,
   {
     "munip": "17. Kazlų Rūdos",
     "res": [
@@ -174,71 +164,66 @@
       }
     ]
   },
-  21,
   {
     "munip": "18. Kelmės rajono",
     "res": [
       {
         "cand": "Vaclovas ANDRULIS",
         "party": "Lietuvos socialdemokratų partija",
-        "votes": "4815"
+        "votes": "5439"
       },
       {
         "cand": "Juozas RIMKUS",
         "party": "Lietuvos valstiečių ir žaliųjų sąjunga",
-        "votes": "4315"
+        "votes": "4865"
       }
     ]
   },
-  23,
   {
     "munip": "19. Kėdainių rajono",
     "res": [
       {
         "cand": "Saulius GRINKEVIČIUS",
         "party": "Lietuvos laisvės sąjunga (liberalai)",
-        "votes": "9430"
+        "votes": "10014"
       },
       {
         "cand": "Nijolė NAUJOKIENĖ",
         "party": "Darbo partija",
-        "votes": "8127"
+        "votes": "8492"
       }
     ]
   },
-  25,
   {
     "munip": "20. Klaipėdos miesto",
     "res": [
       {
         "cand": "Vytautas GRUBLIAUSKAS",
         "party": "Lietuvos Respublikos liberalų sąjūdis",
-        "votes": "26080"
+        "votes": "26289"
       },
       {
         "cand": "Agnė BILOTAITĖ",
         "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
-        "votes": "8384"
+        "votes": "8175"
       }
     ]
   },
-  27,
   {
     "munip": "21. Klaipėdos rajono",
     "res": [
       {
-        "cand": "Audronė BALNIONIENĖ",
-        "party": "Lietuvos Respublikos liberalų sąjūdis",
-        "votes": "4875"
-      },
-      {
         "cand": "Vaclovas DAČKAUSKAS",
         "party": "Lietuvos socialdemokratų partija",
-        "votes": "4861"
+        "votes": "5471"
+      },
+      {
+        "cand": "Audronė BALNIONIENĖ",
+        "party": "Lietuvos Respublikos liberalų sąjūdis",
+        "votes": "5414"
       }
     ]
   },
-  29,
   {
     "munip": "22. Kretingos rajono",
     "res": [
@@ -254,7 +239,6 @@
       }
     ]
   },
-  31,
   {
     "munip": "23. Kupiškio rajono",
     "res": [
@@ -270,7 +254,6 @@
       }
     ]
   },
-  33,
   {
     "munip": "26. Mažeikių rajono",
     "res": [
@@ -286,7 +269,6 @@
       }
     ]
   },
-  35,
   {
     "munip": "30. Pakruojo rajono",
     "res": [
@@ -302,7 +284,6 @@
       }
     ]
   },
-  37,
   {
     "munip": "32. Panevėžio miesto",
     "res": [
@@ -318,7 +299,6 @@
       }
     ]
   },
-  39,
   {
     "munip": "35. Plungės rajono",
     "res": [
@@ -334,7 +314,6 @@
       }
     ]
   },
-  41,
   {
     "munip": "36. Prienų rajono",
     "res": [
@@ -350,7 +329,6 @@
       }
     ]
   },
-  43,
   {
     "munip": "37. Radviliškio rajono",
     "res": [
@@ -366,7 +344,6 @@
       }
     ]
   },
-  45,
   {
     "munip": "38. Raseinių rajono",
     "res": [
@@ -382,23 +359,21 @@
       }
     ]
   },
-  47,
   {
     "munip": "40. Rokiškio rajono",
     "res": [
       {
         "cand": "Antanas VAGONIS",
         "party": "Lietuvos socialdemokratų partija",
-        "votes": "4435"
+        "votes": "4910"
       },
       {
         "cand": "Almantas BLAŽYS",
         "party": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
-        "votes": "4011"
+        "votes": "4467"
       }
     ]
   },
-  49,
   {
     "munip": "41. Skuodo rajono",
     "res": [
@@ -414,23 +389,21 @@
       }
     ]
   },
-  51,
   {
     "munip": "42. Šakių rajono",
     "res": [
       {
         "cand": "Juozas BERTAŠIUS",
         "party": "Lietuvos valstiečių ir žaliųjų sąjunga",
-        "votes": "5150"
+        "votes": "5790"
       },
       {
         "cand": "Bernardinas Petras VAINIUS",
         "party": "Lietuvos socialdemokratų partija",
-        "votes": "3779"
+        "votes": "4312"
       }
     ]
   },
-  53,
   {
     "munip": "44. Šiaulių miesto",
     "res": [
@@ -446,7 +419,6 @@
       }
     ]
   },
-  55,
   {
     "munip": "45. Šiaulių rajono",
     "res": [
@@ -462,7 +434,6 @@
       }
     ]
   },
-  57,
   {
     "munip": "46. Šilalės rajono",
     "res": [
@@ -478,7 +449,6 @@
       }
     ]
   },
-  59,
   {
     "munip": "47. Šilutės rajono",
     "res": [
@@ -494,7 +464,6 @@
       }
     ]
   },
-  61,
   {
     "munip": "48. Širvintų rajono",
     "res": [
@@ -510,7 +479,6 @@
       }
     ]
   },
-  63,
   {
     "munip": "49. Švenčionių rajono",
     "res": [
@@ -526,39 +494,36 @@
       }
     ]
   },
-  65,
   {
     "munip": "50. Tauragės rajono",
     "res": [
       {
         "cand": "Sigitas MIČIULIS",
         "party": "Lietuvos Respublikos liberalų sąjūdis",
-        "votes": "6284"
+        "votes": "7242"
       },
       {
         "cand": "Pranas PETROŠIUS",
         "party": "Lietuvos socialdemokratų partija",
-        "votes": "5829"
+        "votes": "6422"
       }
     ]
   },
-  67,
   {
     "munip": "51. Telšių rajono",
     "res": [
       {
         "cand": "Vytautas KLEIVA",
         "party": "Lietuvos socialdemokratų partija",
-        "votes": "7178"
+        "votes": "7345"
       },
       {
         "cand": "Almantas LUKAVIČIUS",
         "party": "Partija Tvarka ir teisingumas",
-        "votes": "4004"
+        "votes": "4094"
       }
     ]
   },
-  69,
   {
     "munip": "53. Ukmergės rajono",
     "res": [
@@ -574,7 +539,6 @@
       }
     ]
   },
-  71,
   {
     "munip": "55. Varėnos rajono",
     "res": [
@@ -590,23 +554,21 @@
       }
     ]
   },
-  73,
   {
     "munip": "57. Vilniaus miesto",
     "res": [
       {
         "cand": "Remigijus ŠIMAŠIUS",
         "party": "Lietuvos Respublikos liberalų sąjūdis",
-        "votes": "75246"
+        "votes": "84900"
       },
       {
         "cand": "Artūras ZUOKAS",
         "party": "Lietuvos laisvės sąjunga (liberalai)",
-        "votes": "46281"
+        "votes": "52555"
       }
     ]
   },
-  75,
   {
     "munip": "59. Visagino",
     "res": [
@@ -622,7 +584,6 @@
       }
     ]
   },
-  77,
   {
     "munip": "60. Zarasų rajono",
     "res": [
@@ -637,6 +598,5 @@
         "votes": "2550"
       }
     ]
-  },
-  79
+  }
 ]

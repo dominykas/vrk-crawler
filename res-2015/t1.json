@@ -14,7 +14,6 @@
       }
     ]
   },
-  1,
   {
     "munip": "2. Alytaus miesto",
     "res": [
@@ -30,7 +29,6 @@
       }
     ]
   },
-  3,
   {
     "munip": "3. Alytaus rajono",
     "res": [
@@ -46,7 +44,6 @@
       }
     ]
   },
-  5,
   {
     "munip": "4. Anykščių rajono",
     "res": [
@@ -62,7 +59,6 @@
       }
     ]
   },
-  7,
   {
     "munip": "5. Birštono",
     "res": [
@@ -78,7 +74,6 @@
       }
     ]
   },
-  9,
   {
     "munip": "6. Biržų rajono",
     "res": [
@@ -94,7 +89,6 @@
       }
     ]
   },
-  11,
   {
     "munip": "7. Druskininkų",
     "res": [
@@ -110,7 +104,6 @@
       }
     ]
   },
-  13,
   {
     "munip": "8. Elektrėnų",
     "res": [
@@ -126,7 +119,6 @@
       }
     ]
   },
-  15,
   {
     "munip": "9. Ignalinos rajono",
     "res": [
@@ -142,7 +134,6 @@
       }
     ]
   },
-  17,
   {
     "munip": "10. Jonavos rajono",
     "res": [
@@ -158,7 +149,6 @@
       }
     ]
   },
-  19,
   {
     "munip": "11. Joniškio rajono",
     "res": [
@@ -174,7 +164,6 @@
       }
     ]
   },
-  21,
   {
     "munip": "12. Jurbarko rajono",
     "res": [
@@ -190,7 +179,6 @@
       }
     ]
   },
-  23,
   {
     "munip": "13. Kaišiadorių rajono",
     "res": [
@@ -206,7 +194,6 @@
       }
     ]
   },
-  25,
   {
     "munip": "14. Kalvarijos",
     "res": [
@@ -222,7 +209,6 @@
       }
     ]
   },
-  27,
   {
     "munip": "15. Kauno miesto",
     "res": [
@@ -238,7 +224,6 @@
       }
     ]
   },
-  29,
   {
     "munip": "16. Kauno rajono",
     "res": [
@@ -254,7 +239,6 @@
       }
     ]
   },
-  31,
   {
     "munip": "17. Kazlų Rūdos",
     "res": [
@@ -270,7 +254,6 @@
       }
     ]
   },
-  33,
   {
     "munip": "18. Kelmės rajono",
     "res": [
@@ -286,7 +269,6 @@
       }
     ]
   },
-  35,
   {
     "munip": "19. Kėdainių rajono",
     "res": [
@@ -302,7 +284,6 @@
       }
     ]
   },
-  37,
   {
     "munip": "20. Klaipėdos miesto",
     "res": [
@@ -318,7 +299,6 @@
       }
     ]
   },
-  39,
   {
     "munip": "21. Klaipėdos rajono",
     "res": [
@@ -334,7 +314,6 @@
       }
     ]
   },
-  41,
   {
     "munip": "22. Kretingos rajono",
     "res": [
@@ -350,7 +329,6 @@
       }
     ]
   },
-  43,
   {
     "munip": "23. Kupiškio rajono",
     "res": [
@@ -366,7 +344,6 @@
       }
     ]
   },
-  45,
   {
     "munip": "24. Lazdijų rajono",
     "res": [
@@ -382,7 +359,6 @@
       }
     ]
   },
-  47,
   {
     "munip": "25. Marijampolės",
     "res": [
@@ -398,7 +374,6 @@
       }
     ]
   },
-  49,
   {
     "munip": "26. Mažeikių rajono",
     "res": [
@@ -414,7 +389,6 @@
       }
     ]
   },
-  51,
   {
     "munip": "27. Molėtų rajono",
     "res": [
@@ -430,7 +404,6 @@
       }
     ]
   },
-  53,
   {
     "munip": "28. Neringos",
     "res": [
@@ -446,7 +419,6 @@
       }
     ]
   },
-  55,
   {
     "munip": "29. Pagėgių",
     "res": [
@@ -462,7 +434,6 @@
       }
     ]
   },
-  57,
   {
     "munip": "30. Pakruojo rajono",
     "res": [
@@ -478,7 +449,6 @@
       }
     ]
   },
-  59,
   {
     "munip": "31. Palangos miesto",
     "res": [
@@ -494,7 +464,6 @@
       }
     ]
   },
-  61,
   {
     "munip": "32. Panevėžio miesto",
     "res": [
@@ -510,7 +479,6 @@
       }
     ]
   },
-  63,
   {
     "munip": "33. Panevėžio rajono",
     "res": [
@@ -526,7 +494,6 @@
       }
     ]
   },
-  65,
   {
     "munip": "34. Pasvalio rajono",
     "res": [
@@ -542,7 +509,6 @@
       }
     ]
   },
-  67,
   {
     "munip": "35. Plungės rajono",
     "res": [
@@ -558,7 +524,6 @@
       }
     ]
   },
-  69,
   {
     "munip": "36. Prienų rajono",
     "res": [
@@ -574,7 +539,6 @@
       }
     ]
   },
-  71,
   {
     "munip": "37. Radviliškio rajono",
     "res": [
@@ -590,7 +554,6 @@
       }
     ]
   },
-  73,
   {
     "munip": "38. Raseinių rajono",
     "res": [
@@ -606,7 +569,6 @@
       }
     ]
   },
-  75,
   {
     "munip": "39. Rietavo",
     "res": [
@@ -622,7 +584,6 @@
       }
     ]
   },
-  77,
   {
     "munip": "40. Rokiškio rajono",
     "res": [
@@ -638,7 +599,6 @@
       }
     ]
   },
-  79,
   {
     "munip": "41. Skuodo rajono",
     "res": [
@@ -654,7 +614,6 @@
       }
     ]
   },
-  81,
   {
     "munip": "42. Šakių rajono",
     "res": [
@@ -670,7 +629,6 @@
       }
     ]
   },
-  83,
   {
     "munip": "43. Šalčininkų rajono",
     "res": [
@@ -686,7 +644,6 @@
       }
     ]
   },
-  85,
   {
     "munip": "44. Šiaulių miesto",
     "res": [
@@ -702,7 +659,6 @@
       }
     ]
   },
-  87,
   {
     "munip": "45. Šiaulių rajono",
     "res": [
@@ -718,7 +674,6 @@
       }
     ]
   },
-  89,
   {
     "munip": "46. Šilalės rajono",
     "res": [
@@ -734,7 +689,6 @@
       }
     ]
   },
-  91,
   {
     "munip": "47. Šilutės rajono",
     "res": [
@@ -750,7 +704,6 @@
       }
     ]
   },
-  93,
   {
     "munip": "48. Širvintų rajono",
     "res": [
@@ -766,7 +719,6 @@
       }
     ]
   },
-  95,
   {
     "munip": "49. Švenčionių rajono",
     "res": [
@@ -782,7 +734,6 @@
       }
     ]
   },
-  97,
   {
     "munip": "50. Tauragės rajono",
     "res": [
@@ -798,7 +749,6 @@
       }
     ]
   },
-  99,
   {
     "munip": "51. Telšių rajono",
     "res": [
@@ -814,7 +764,6 @@
       }
     ]
   },
-  101,
   {
     "munip": "52. Trakų rajono",
     "res": [
@@ -830,7 +779,6 @@
       }
     ]
   },
-  103,
   {
     "munip": "53. Ukmergės rajono",
     "res": [
@@ -846,7 +794,6 @@
       }
     ]
   },
-  105,
   {
     "munip": "54. Utenos rajono",
     "res": [
@@ -862,7 +809,6 @@
       }
     ]
   },
-  107,
   {
     "munip": "55. Varėnos rajono",
     "res": [
@@ -878,7 +824,6 @@
       }
     ]
   },
-  109,
   {
     "munip": "56. Vilkaviškio rajono",
     "res": [
@@ -894,7 +839,6 @@
       }
     ]
   },
-  111,
   {
     "munip": "57. Vilniaus miesto",
     "res": [
@@ -910,7 +854,6 @@
       }
     ]
   },
-  113,
   {
     "munip": "58. Vilniaus rajono",
     "res": [
@@ -926,7 +869,6 @@
       }
     ]
   },
-  115,
   {
     "munip": "59. Visagino",
     "res": [
@@ -942,7 +884,6 @@
       }
     ]
   },
-  117,
   {
     "munip": "60. Zarasų rajono",
     "res": [
@@ -957,6 +898,5 @@
         "votes": "1665"
       }
     ]
-  },
-  119
+  }
 ]

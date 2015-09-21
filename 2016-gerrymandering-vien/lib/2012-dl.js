@@ -41,6 +41,7 @@ function apylData(apylUrl) {
 				.map(function (i, a) {
 					var $p = $(a).closest("tr");
 					return {
+						apyg: $($(".partydata b a")[0]).text(),
 						apyl: $($("h2")[0]).text(),
 						candidate: $p.find("td:first-child a").text(),
 						candidateUrl: $p.find("td:first-child a")[0].href,

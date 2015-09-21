@@ -1,8 +1,5 @@
 var jsdom = require("jsdom");
 var Q = require("q");
-var Bluebird = require("bluebird");
-var fs = require("fs");
-var _ = require("lodash");
 
 var apygCount = 0, apylCount = 0;
 
@@ -54,15 +51,6 @@ function apylData(apylUrl) {
 		})
 }
 
-apygUrls()
-	.then(function (urls) {
-		return Bluebird.map(urls, (url) => apylUrls(url), { concurrency: 10});
-	})
-	.then(function (urls) {
-		urls = _.flatten(urls);
-		return Bluebird.map(urls, (url) => apylData(url), { concurrency: 10});
-	})
-	.then(function (res) {
-		fs.writeFileSync("all-results-2012.json", JSON.stringify(_.flattenDeep(res), null, 4));
-	})
-	.done();
+module.exports.apygUrls = apygUrls;
+module.exports.apylUrls = apylUrls;
+module.exports.apylData = apylData;

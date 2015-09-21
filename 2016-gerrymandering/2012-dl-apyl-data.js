@@ -10,6 +10,6 @@ if (!page) {
 	process.exit(1);
 }
 
-Bluebird.map(require("./2012-apyl-urls.json").slice((page - 1) * 100, page * 100), (url) => apylData(url), {concurrency: 10})
-	.then((urls) => fs.writeFileSync("2012-all-results-" + page + ".json", JSON.stringify(_.flattenDeep(urls), null, 4)))
+Bluebird.map(require("./data/2012-apyl-urls.json").slice((page - 1) * 100, page * 100), (url) => apylData(url), {concurrency: 10})
+	.then((urls) => fs.writeFileSync("./data/2012-all-results-" + page + ".json", JSON.stringify(_.flattenDeep(urls), null, 4)))
 	.done();

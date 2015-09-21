@@ -1,5 +1,6 @@
 {
-  "name": "vrk-crawler",
+  "name": "vrk-crawler-2015-antras-turas",
+  "private": true,
   "version": "1.0.0",
   "description": "Greiti hackai vrk.lt nusiurbimui ir paanalizavimui",
   "main": "go.js",
@@ -17,8 +18,8 @@
   },
   "homepage": "https://github.com/dominykas/vrk-crawler",
   "dependencies": {
-    "jsdom": "^4.0.2",
-    "lodash": "^3.5.0",
-    "q": "^1.2.0"
+    "jsdom": "4.x",
+    "lodash": "3.x",
+    "q": "1.x"
   }
 }

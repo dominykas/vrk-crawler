@@ -18,9 +18,10 @@
   },
   "homepage": "https://github.com/dominykas/vrk-crawler",
   "dependencies": {
-    "async": "^1.4.2",
-    "jsdom": "^4.5.2",
-    "lodash": "^3.10.1",
-    "q": "^1.4.1"
+    "async": "1.x",
+    "bluebird": "2.x",
+    "jsdom": "5.x",
+    "lodash": "3.x",
+    "q": "1.x"
   }
 }

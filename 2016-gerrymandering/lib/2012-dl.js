@@ -44,7 +44,7 @@ function apylData(apylUrl) {
 						apyl: $($("h2")[0]).text(),
 						candidate: $p.find("td:first-child a").text(),
 						candidateUrl: $p.find("td:first-child a")[0].href,
-						totalVotes: $p.find("td:nth-child(4)").text()
+						totalVotes: parseInt($p.find("td:nth-child(4)").text(), 10)
 					}
 				})
 				.toArray()

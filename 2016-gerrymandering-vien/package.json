@@ -20,6 +20,7 @@
   "dependencies": {
     "async": "1.x",
     "bluebird": "2.x",
+    "csv-parse": "1.x",
     "jsdom": "5.x",
     "lodash": "3.x",
     "q": "1.x"

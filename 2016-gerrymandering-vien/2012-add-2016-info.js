@@ -23,7 +23,7 @@ var changes = _(changesApyg).concat(changesApyl)
 
 var changesMap = _(changes)
 	.groupBy("apygOld")
-	.mapValues((g) => _.indexBy(g, "apylOld"))
+	.mapValues((g) => _.indexBy(g, (i) => i.apylOldNum + "-" + i.apylOld))
 	.value();
 
 var notFound = [];
@@ -51,7 +51,7 @@ var fullInfo = allResults.map(function (row) {
 	var change;
 	var apylMap = changesMap[parsedNames.apygOld];
 	if (apylMap) {
-		change = apylMap[parsedNames.apylOld];
+		change = apylMap[parsedNames.apylOldNum + "-" + parsedNames.apylOld];
 	}
 	if (change) {
 		change.used = true;

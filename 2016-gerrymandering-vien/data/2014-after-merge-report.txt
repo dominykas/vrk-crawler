@@ -1,44 +1,59 @@
 Naujamiesčio
 Nebuvo: Žemaitės (16)
+	-> renamed from Naugarduko
 
 Senamiesčio
 Nebuvo: Konstitucijos (59), Senamiesčio (60)
+	-> renamed from V.Sirokomlės, S. Nėries
 
 Antakalnio
 Nebėra: Karačiūnų (119)
+	-> moved to Antavilių 120 and Dvarčionių 121 in Naujosios Vilnios
 
 Žirmūnų
 Nebuvo: Visorių (23)
+	-> new
 
 Fabijoniškių
 Nebuvo: Tarandės (217)
+	-> new
 
 Karoliniškių
 Nebuvo: I.Kanto (313)
+	-> new
 
 Danės
 Nebėra: Jūreivių (62)
+	-> balsavimas jūroje
 
 Gargždų
 Nebuvo: Karklės (32)
+	-> new
 
 Plungės-Rietavo
 Nebuvo: Gimnazijos (9)
+	-> new
 
 Kretingos
 Nebuvo: Bajorų (40)
+	-> new
 
 Raseinių
 Nebuvo: Steponkaimio (29)
+	-> renamed from Agelaičių
 
 Pakruojo-Joniškio
 Nebuvo: Drąsutaičių (35), Pošupių (36)
+	-> new, new
 
 Kaišiadorių-Elektrėnų
 Nebuvo: Kasčiukiškių (32)
+	-> new
 
 Ukmergės
 Nebuvo: Tulpiakiemio (17), Lėno (20), Nuotekų (27), Sližių (36), Laumėnų (38), Tolučių (39), Petronių (16)
+	-> reshuffle
 
 Dzūkijos
 Nebuvo: Mikutiškių (2)
+	-> renamed from Praniūnų

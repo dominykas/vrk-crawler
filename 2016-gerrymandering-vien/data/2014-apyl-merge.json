@@ -328,5 +328,15 @@
     "apygNewNum": 2,
     "apylNew": "Senamiesčio",
     "apylNewNum": 60
+  },
+  {
+    "apygOld": "Antakalnio",
+    "apygOldNum": 3,
+    "apylOld": "Karačiūnų",
+    "apylOldNum": 119,
+    "apygNew": "Antakalnio",
+    "apygNewNum": 3,
+    "apylNew": "Antavilių",
+    "apylNewNum": 120
   }
 ]

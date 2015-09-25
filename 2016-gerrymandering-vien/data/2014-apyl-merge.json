@@ -338,5 +338,25 @@
     "apygNewNum": 3,
     "apylNew": "Antavilių",
     "apylNewNum": 120
+  },
+  {
+    "apygOld": "Naujamiesčio",
+    "apygOldNum": 1,
+    "apylOld": "Emigrantų",
+    "apylOldNum": 99999,
+    "apygNew": "Naujamiesčio",
+    "apygNewNum": 1,
+    "apylNew": "Emigrantų",
+    "apylNewNum": 99999
+  },
+  {
+    "apygOld": "Danės",
+    "apygOldNum": 19,
+    "apylOld": "Jūreivių",
+    "apylOldNum": 62,
+    "apygNew": "Danės",
+    "apygNewNum": 19,
+    "apylNew": "Jūreivių",
+    "apylNewNum": 62
   }
 ]

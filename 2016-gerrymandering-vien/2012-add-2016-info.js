@@ -28,14 +28,16 @@ var changesMap = _(changes)
 
 var notFound = [];
 
-var fullInfo = allResults.map(function (row) {
+var fullInfo = allResults
+	.filter((row) => row.apyl.trim() != "Balsai suskaičiuoti rinkimų apygardoje (Nr.0) apylinkė")
+	.map(function (row) {
 	var apygMatches = row.apyg.match(/(.*) \(Nr.(\d+)\) apygarda$/);
 	if (!apygMatches) {
 		console.error("Could not parse apyg", row.apyg);
 		process.exit();
 	}
 
-	var apylMatches = row.apyl.match(/(.*) \(Nr.(\d+)\) apylink..$/);
+	var apylMatches = row.apyl.trim().match(/(.*) \(Nr.(\d+)\) apylinkė$/);
 	if (!apylMatches) {
 		console.error("Could not parse apyl", row.apyl);
 		process.exit();
@@ -64,11 +66,11 @@ var fullInfo = allResults.map(function (row) {
 });
 
 var uniqNotFound = _(notFound).uniq((s) => JSON.stringify(s)).groupBy("apygOld").mapValues((g)=>({ nf: g, an: g[0].apygOldNum, a: g[0].apygOld })).value();
-//console.log(uniqNotFound);
-//console.log(_.size(uniqNotFound));
+console.log(uniqNotFound);
+console.log(_.size(uniqNotFound));
 var notUsed = _(changes).reject("used").groupBy("apygOld").mapValues((g, k) => ({ nu: g, an: g[0].apygOldNum, a: g[0].apygOld })).value();
-//console.log(notUsed);
-//console.log(_.size(notUsed));
+console.log(notUsed);
+console.log(_.size(notUsed));
 
 
 //console.log(fullInfo);

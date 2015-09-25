@@ -1,9 +1,7 @@
 Naujamiesčio
-Nebėra: Naugarduko (16)
 Nebuvo: Žemaitės (16)
 
 Senamiesčio
-Nebėra: V.Sirokomlės (59), S.Nėries (60)
 Nebuvo: Konstitucijos (59), Senamiesčio (60)
 
 Antakalnio
@@ -18,23 +16,11 @@ Nebuvo: Tarandės (217)
 Karoliniškių
 Nebuvo: I.Kanto (313)
 
-Aleksoto-Vilijampolės
-Nebėra: H.ir O Minkovskių (26)
-
-Žaliakalnio
-Nebėra: M.Jankaus (62)
-
 Danės
 Nebėra: Jūreivių (62)
 
-Aukštaitijos
-Nebuvo: Ramygalos (29)
-
 Gargždų
-Nebuvo: Gargždų (1), Gargždų (2), Gargždų (3), Karklės (32)
-
-Šilutės-Pagėgių
-Nebėra: Barvų (20)
+Nebuvo: Karklės (32)
 
 Plungės-Rietavo
 Nebuvo: Gimnazijos (9)
@@ -48,30 +34,11 @@ Nebuvo: Steponkaimio (29)
 Pakruojo-Joniškio
 Nebuvo: Drąsutaičių (35), Pošupių (36)
 
-Anykščių-Kupiškio
-Nebėra: Daujočių (24)
-
-Rokiškio
-Nebuvo: Obelių (13)
-
-Zarasų-Visagino
-Nebėra: Kimbartiškės (16)
-
 Kaišiadorių-Elektrėnų
 Nebuvo: Kasčiukiškių (32)
 
 Ukmergės
 Nebuvo: Tulpiakiemio (17), Lėno (20), Nuotekų (27), Sližių (36), Laumėnų (38), Tolučių (39), Petronių (16)
 
-Suvalkijos
-Nebuvo: Jūrės (8)
-
-Kauno-Kėdainių
-Nebėra: Medėkšių (20), Saviečių (37)
-
-Vilkaviškio
-Nebėra: Rimavičių (8)
-
 Dzūkijos
-Nebėra: Praniūnų (2)
-Nebuvo: Santaikos (5), Ūdrijos (14), Mikutiškių (2)
+Nebuvo: Mikutiškių (2)

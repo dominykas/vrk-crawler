@@ -208,5 +208,125 @@
     "apygNewNum": 6,
     "apylNew": "Šešuolių",
     "apylNewNum": 251
+  },
+  {
+    "apygOld": "Dzūkijos",
+    "apygOldNum": 69,
+    "apylOld": "Praniūnų",
+    "apylOldNum": 2,
+    "apygNew": "Dzūkijos",
+    "apygNewNum": 69,
+    "apylNew": "Mikutiškių",
+    "apylNewNum": 2
+  },
+  {
+    "apygOld": "Anykščių-Kupiškio",
+    "apygOldNum": 49,
+    "apylOld": "Daujočių",
+    "apylOldNum": 24,
+    "apygNew": "Anykščių-Kupiškio",
+    "apygNewNum": 49,
+    "apylNew": "Aulelių",
+    "apylNewNum": 25
+  },
+  {
+    "apygOld": "Kauno-Kėdainių",
+    "apygOldNum": 65,
+    "apylOld": "Medėkšių",
+    "apylOldNum": 20,
+    "apygNew": "Kauno-Kėdainių",
+    "apygNewNum": 65,
+    "apylNew": "Pelėdnagių",
+    "apylNewNum": 31
+  },
+  {
+    "apygOld": "Kauno-Kėdainių",
+    "apygOldNum": 65,
+    "apylOld": "Saviečių",
+    "apylOldNum": 37,
+    "apygNew": "Kauno-Kėdainių",
+    "apygNewNum": 65,
+    "apylNew": "Nociūnų",
+    "apylNewNum": 24
+  },
+  {
+    "apygOld": "Šilutės-Pagėgių",
+    "apygOldNum": 32,
+    "apylOld": "Barvų",
+    "apylOldNum": 20,
+    "apygNew": "Šilutės-Pagėgių",
+    "apygNewNum": 32,
+    "apylNew": "Saugų",
+    "apylNewNum": 21
+  },
+  {
+    "apygOld": "Vilkaviškio",
+    "apygOldNum": 68,
+    "apylOld": "Rimavičių",
+    "apylOldNum": 8,
+    "apygNew": "Vilkaviškio",
+    "apygNewNum": 68,
+    "apylNew": "Gižų",
+    "apylNewNum": 13
+  },
+  {
+    "apygOld": "Zarasų-Visagino",
+    "apygOldNum": 52,
+    "apylOld": "Kimbartiškės",
+    "apylOldNum": 16,
+    "apygNew": "Zarasų-Visagino",
+    "apygNewNum": 52,
+    "apylNew": "Turmanto",
+    "apylNewNum": 18
+  },
+  {
+    "apygOld": "Aleksoto-Vilijampolės",
+    "apygOldNum": 12,
+    "apylOld": "H. ir O Minkovskių",
+    "apylOldNum": 26,
+    "apygNew": "Aleksoto-Vilijampolės",
+    "apygNewNum": 12,
+    "apylNew": "Piliakalnio",
+    "apylNewNum": 31
+  },
+  {
+    "apygOld": "Žaliakalnio",
+    "apygOldNum": 14,
+    "apylOld": "M. Jankaus",
+    "apylOldNum": 62,
+    "apygNew": "Žaliakalnio",
+    "apygNewNum": 14,
+    "apylNew": "S. Nėries",
+    "apylNewNum": 63
+  },
+  {
+    "apygOld": "Naujamiesčio",
+    "apygOldNum": 1,
+    "apylOld": "Naugarduko",
+    "apylOldNum": 16,
+    "apygNew": "Naujamiesčio",
+    "apygNewNum": 1,
+    "apylNew": "Žemaitės",
+    "apylNewNum": 16
+  },
+  {
+    "apygOld": "Senamiesčio",
+    "apygOldNum": 2,
+    "apylOld": "V.Sirokomlės",
+    "apylOldNum": 59,
+    "apygNew": "Senamiesčio",
+    "apygNewNum": 2,
+    "apylNew": "Konstitucijos",
+    "apylNewNum": 59
+  },
+  {
+    "apygOld": "Senamiesčio",
+    "apygOldNum": 2,
+    "apylOld": "S. Nėries",
+    "apylOldNum": 60,
+    "apygNew": "Senamiesčio",
+    "apygNewNum": 2,
+    "apylNew": "Senamiesčio",
+    "apylNewNum": 60
   }
 ]

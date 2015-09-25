@@ -1,3 +1,7 @@
 module.exports = function (name) {
-	return name.replace(/ \- /g, "-").replace(/\. /g, ".").trim();
+	return name
+		.replace(/–/g, "-")
+		.replace(/ \- /g, "-")
+		.replace(/\. /g, ".")
+		.trim();
 };

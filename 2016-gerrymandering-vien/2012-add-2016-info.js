@@ -98,13 +98,13 @@ var resultsOld = _(fullInfo)
 					totalAfter: _.sum(c.filter((x) => x.apygNew == x.apygOld), "totalVotes")
 				}
 			})
-			.sortBy("totalBefore", "desc")
-			.map(function (i, n) {
-				return _.merge(i, { posBefore: n+1 })
-			})
-			.sortBy("totalAfter", "desc")
+			.sortByOrder("totalAfter", "desc")
 			.map(function (i, n) {
 				return _.merge(i, { posAfter: n+1 })
+			})
+			.sortByOrder("totalBefore", "desc")
+			.map(function (i, n) {
+				return _.merge(i, { posBefore: n+1 })
 			})
 			.value();
 	})

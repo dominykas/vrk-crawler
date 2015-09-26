@@ -1,6 +1,7 @@
 var _ = require("lodash");
 var fs = require("fs");
 var normalize = require("./lib/normalize");
+var csvStringify = require("csv-stringify");
 
 var allResults = require("./data/2012-all-results.json").concat(require("./data/2012-emigrantai.json"));
 
@@ -137,3 +138,12 @@ var votesMoved = _(fullInfo)
 
 fs.writeFileSync("./data/output-results-in-old.json", JSON.stringify(resultsOld, null, 4));
 fs.writeFileSync("./data/output-results-moved.json", JSON.stringify(votesMoved, null, 4));
+
+csvStringify(resultsOld, {header:true}, function (e, res) {
+	if (e) throw e;
+	fs.writeFileSync("./data/output-results-in-old.csv", res);
+});
+csvStringify(votesMoved, {header:true}, function (e, res) {
+	if (e) throw e;
+	fs.writeFileSync("./data/output-results-moved.csv", res);
+});
